@@ -1,3 +1,3 @@
 # calculator
 
-This is a calculator written in HTML and Javascript
+This is a calculator written in HTML, CSS and Javascript
